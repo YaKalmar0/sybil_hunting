@@ -1,0 +1,67 @@
+html{
+    background-color: rgb(231, 231, 247);
+    color: rgb(3, 35, 86);
+    font-family: "Times New Roman", serif;
+    text-align: center;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+#logo{
+    height: 90px;  
+}
+
+.placeholder{
+    color: rgb(229, 229, 255);
+    font-size: 200pt;
+}
+
+h1{
+    font-size: 35pt;
+}
+
+h3{
+    font-size:70pt;
+}
+
+.container{
+    display: flex;
+    gap: 40px;
+    font-size: 15pt;
+}
+
+.front:hover{
+    color: rgb(48, 114, 236);
+}
+
+.button1{
+    background-color: rgb(198, 239, 249);
+    color: cornflowerblue;
+    text-align: center;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.pSize{
+    font-size: 20pt;
+    list-style-type: none;
+}
+
+img[src="./images/zkevm_clustering.png"]{
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+
+}
+
+.sourceMedium{
+    clear: both;
+}
+
+.footer{
+    color: rgb(198, 239, 249);
+    font-size: 10pt;
+}
