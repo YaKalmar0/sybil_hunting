@@ -28,9 +28,9 @@ mitigating the risk of airdrop hunters.
 
 ## Features
 
-- **Machine Learning Detection:** Employing machine learning models to identify clusters of wallets that can be attributed to one airdrop hunter.
-- **Data Collection and Analysis:** Gathering on-chain transaction data, preprocessing, and applying clustering algorithms.
-- **Privacy-Preserving:** Unlike traditional KYC methods, our approach maintains users' privacy while identifying malicious actors.
+- Machine Learning Detection: Employing machine learning models to identify clusters of wallets that can be attributed to one airdrop hunter.
+- Data Collection and Analysis:Gathering on-chain transaction data, preprocessing, and applying clustering algorithms.
+- Privacy-Preserving: Unlike traditional KYC methods, our approach maintains users' privacy while identifying malicious actors.
 
 ## Technologies Used
 
@@ -47,9 +47,9 @@ mitigating the risk of airdrop hunters.
 
 ## Challenges and Solutions
 
-- **Data Gathering:** Slow RPC speeds and unreliable connections were tackled by developing a framework for efficient dataset downloads.
-- **Computational Complexity:** The DeepWalk algorithm's resource consumption was mitigated by focusing on smaller datasets.
-- **Large Sparse Matrices:** Applying Louvain and Connected Components methods was enhanced with increased computational resources.
+- Data Gathering: Slow RPC speeds and unreliable connections were tackled by developing a framework for efficient dataset downloads.
+- Computational Complexity: The DeepWalk algorithm's resource consumption was mitigated by focusing on smaller datasets.
+- Large Sparse Matrices: Applying Louvain and Connected Components methods was enhanced with increased computational resources.
 
 ## Future Enhancements
 
