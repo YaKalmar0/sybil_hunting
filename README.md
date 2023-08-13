@@ -45,6 +45,8 @@ mitigating the risk of airdrop hunters.
 2. Preprocess the data using provided scripts.
 3. Apply the clustering algorithm to identify wallet clusters.
 
+Due to the time constraints of the hackathon and Github's file size limit, we weren't able to publish the datasets here. If you want to skip the data collection step and run our scripts on the prerpared data, please reach out to any of the authors and we will be happy to provide you with the files.
+
 ## Challenges and Solutions
 
 - Data Gathering: Slow RPC speeds and unreliable connections were tackled by developing a framework for efficient dataset downloads.
@@ -56,3 +58,9 @@ mitigating the risk of airdrop hunters.
 - Incorporating more advanced machine learning models.
 - Enhancing the identification of specific (similar within the clusters) behaviors associated with airdrop hunters.
 - Integrating the detection mechanism into a user-friendly interface.
+
+## Authors
+- Stefanie Mayer (stefanie.s.mayer@gmail.com)
+- Denys Kosianchuk (kosianch@gmail.com)
+- Andrii Yakovyna (andjakovyna@gmail.com)
+- Jakub Warmuz (jwarmuz99@gmail.com)
